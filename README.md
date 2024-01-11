@@ -23,7 +23,7 @@ print('hello')
 [google](https://www.google.com)
 ![이미지](https://ssl.pstatic.net/melona/libs/1477/1477082/2e84e78f18f9e9216ee0_20240109133912740.jpg)
 
-![이미지](C:\Users\SSAFY\Desktop\my\2e84e78f18f9e9216ee0_20240109133912740.jpg)
+![이미지](2e84e78f18f9e9216ee0_20240109133912740.jpg)
 
 앞에 내용 **굵게** 뒤에 *기울임* ~~취소선~~
 
